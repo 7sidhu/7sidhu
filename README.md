@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently learning **HTML, CSS, JS, Angular and Advance Java a Java Full Stack.**
 
-- 💬 Ask me about **C++, Core Java, MySQL, Object Oriented Programming**
+- 💬 Ask me about **C++, Core Java, MySQL,JDBC, Hibernate, Object Oriented Programming, Exception Handling, Collection**
 
 - 📫 How to reach me **sidheshwarkmarepalle@gmail.com**
 
