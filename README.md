@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7sidhu&label=Profile%20views&color=0e75b6&style=flat" alt="sidheshwarMarepalle7" /> </p>
 
 
-- 🔭 I’m currently learning **HTML, CSS, JS, Angular and Advance Java a Java Full Stack.**
-
-- 💬 Ask me about **Spring Boot, C++, Core Java, MySQL, JDBC, Hibernate, Object Oriented Programming, Exception Handling, Collections Framework, Maven**
+- 💬 Ask me about **Core Java, Spring Boot, Spring MVC, MySQL, RESTful API, React, JDBC, Hibernate, JPA, HTML, CSS, JavaScript, Object Oriented Programming, Exception Handling, Collections Framework, Data Structures, Maven**
 
 - 📫 How to reach me **sidheshwarkmarepalle@gmail.com**
 
